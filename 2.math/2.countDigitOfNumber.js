@@ -6,7 +6,6 @@ function countNum(num){
         num = Math.floor(num/10); 
         x++
     }
-
     return num
 }
 console.log(countNum(num), x);
